@@ -62,9 +62,3 @@ Este projeto foi construído com:
 
 -----
 
-## Como posso implantar este projeto?
-
-Simplesmente abra o **[Lovable](https://lovable.dev/projects/71d2f194-a93a-4dda-8c39-14816e459c65)** e clique em `Compartilhar -> Publicar`.
-
------
-
