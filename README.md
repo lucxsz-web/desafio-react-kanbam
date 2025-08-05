@@ -68,10 +68,3 @@ Simplesmente abra o **[Lovable](https://lovable.dev/projects/71d2f194-a93a-4dda-
 
 -----
 
-## Posso conectar um domínio personalizado ao meu projeto Lovable?
-
-Sim, você pode\!
-
-Para conectar um domínio, navegue até `Projeto > Configurações > Domínios` e clique em `Conectar Domínio`.
-
-Leia mais aqui: **[Configurando um domínio personalizado](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)**
